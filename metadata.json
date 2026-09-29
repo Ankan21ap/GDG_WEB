@@ -1,0 +1,6 @@
+{
+  "name": "GDG on Campus FIEM",
+  "description": "Modern event platform for Google Developer Groups on Campus FIEM featuring workshops, hackathons, interactive agendas, RSVP with QR passes, and community gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
